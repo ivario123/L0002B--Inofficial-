@@ -1,0 +1,12 @@
+C:\Users\55131\source\repos\Inlämning2Console\bin\Release\netcoreapp3.1\Inlämning2Console.exe
+C:\Users\55131\source\repos\Inlämning2Console\bin\Release\netcoreapp3.1\Inlämning2Console.deps.json
+C:\Users\55131\source\repos\Inlämning2Console\bin\Release\netcoreapp3.1\Inlämning2Console.runtimeconfig.json
+C:\Users\55131\source\repos\Inlämning2Console\bin\Release\netcoreapp3.1\Inlämning2Console.runtimeconfig.dev.json
+C:\Users\55131\source\repos\Inlämning2Console\bin\Release\netcoreapp3.1\Inlämning2Console.dll
+C:\Users\55131\source\repos\Inlämning2Console\bin\Release\netcoreapp3.1\Inlämning2Console.pdb
+C:\Users\55131\source\repos\Inlämning2Console\obj\Release\netcoreapp3.1\Inlämning2Console.AssemblyInfoInputs.cache
+C:\Users\55131\source\repos\Inlämning2Console\obj\Release\netcoreapp3.1\Inlämning2Console.AssemblyInfo.cs
+C:\Users\55131\source\repos\Inlämning2Console\obj\Release\netcoreapp3.1\Inlämning2Console.csproj.CoreCompileInputs.cache
+C:\Users\55131\source\repos\Inlämning2Console\obj\Release\netcoreapp3.1\Inlämning2Console.dll
+C:\Users\55131\source\repos\Inlämning2Console\obj\Release\netcoreapp3.1\Inlämning2Console.pdb
+C:\Users\55131\source\repos\Inlämning2Console\obj\Release\netcoreapp3.1\Inlämning2Console.genruntimeconfig.cache

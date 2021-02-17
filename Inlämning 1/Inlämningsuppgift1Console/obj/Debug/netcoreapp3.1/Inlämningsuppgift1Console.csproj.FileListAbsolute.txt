@@ -1,0 +1,26 @@
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.csprojAssemblyReference.cache
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.AssemblyInfoInputs.cache
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.AssemblyInfo.cs
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.csproj.CoreCompileInputs.cache
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.exe
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.deps.json
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.runtimeconfig.json
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.runtimeconfig.dev.json
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.dll
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.pdb
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.dll
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.pdb
+C:\Users\55131\source\repos\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.genruntimeconfig.cache
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.exe
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.deps.json
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.runtimeconfig.json
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.runtimeconfig.dev.json
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.dll
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\bin\Debug\netcoreapp3.1\Inlämningsuppgift1Console.pdb
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.csprojAssemblyReference.cache
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.AssemblyInfoInputs.cache
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.AssemblyInfo.cs
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.csproj.CoreCompileInputs.cache
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.dll
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.pdb
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\Inlämningsuppgift1Console\obj\Debug\netcoreapp3.1\Inlämningsuppgift1Console.genruntimeconfig.cache

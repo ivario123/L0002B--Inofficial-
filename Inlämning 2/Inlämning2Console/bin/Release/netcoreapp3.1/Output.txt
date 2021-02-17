@@ -1,0 +1,3 @@
+< namn : Bob,	 Personnummer : 123123123,	 distrikt : 1234,	 antal : 2 >
+< namn : 2,	 Personnummer : 1,	 distrikt : 2,	 antal : 3 >
+2 säljare ligger på nivå 1 : <50 artiklar

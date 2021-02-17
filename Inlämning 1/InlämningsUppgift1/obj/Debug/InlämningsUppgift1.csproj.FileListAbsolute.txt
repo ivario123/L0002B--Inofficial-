@@ -1,0 +1,20 @@
+C:\Users\55131\source\repos\InlämningsUppgift1\bin\Debug\InlämningsUppgift1.exe.config
+C:\Users\55131\source\repos\InlämningsUppgift1\bin\Debug\InlämningsUppgift1.exe
+C:\Users\55131\source\repos\InlämningsUppgift1\bin\Debug\InlämningsUppgift1.pdb
+C:\Users\55131\source\repos\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.csprojAssemblyReference.cache
+C:\Users\55131\source\repos\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.Form1.resources
+C:\Users\55131\source\repos\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.Properties.Resources.resources
+C:\Users\55131\source\repos\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.csproj.GenerateResource.cache
+C:\Users\55131\source\repos\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.csproj.CoreCompileInputs.cache
+C:\Users\55131\source\repos\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.exe
+C:\Users\55131\source\repos\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.pdb
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\InlämningsUppgift1\bin\Debug\InlämningsUppgift1.exe.config
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\InlämningsUppgift1\bin\Debug\InlämningsUppgift1.exe
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\InlämningsUppgift1\bin\Debug\InlämningsUppgift1.pdb
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.csprojAssemblyReference.cache
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.Form1.resources
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.Properties.Resources.resources
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.csproj.GenerateResource.cache
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.csproj.CoreCompileInputs.cache
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.exe
+C:\Users\55131\Documents\LTU Kurser\L0002B\Inlämning 1\InlämningsUppgift1\obj\Debug\InlämningsUppgift1.pdb

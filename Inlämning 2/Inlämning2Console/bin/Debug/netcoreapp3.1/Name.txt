@@ -1,0 +1,2 @@
+< namn : 1,	 Personnummer : 1,	 distrikt : 1,	 antal : 1 
+>1 säljare ligger på nivå 1 : <50 artiklar

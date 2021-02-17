@@ -1,0 +1,20 @@
+C:\Users\55131\source\repos\Inlämning3\bin\Debug\Inlämning3.exe.config
+C:\Users\55131\source\repos\Inlämning3\bin\Debug\Inlämning3.exe
+C:\Users\55131\source\repos\Inlämning3\bin\Debug\Inlämning3.pdb
+C:\Users\55131\source\repos\Inlämning3\obj\Debug\Inlämning3.csprojAssemblyReference.cache
+C:\Users\55131\source\repos\Inlämning3\obj\Debug\Inlämning3.Form1.resources
+C:\Users\55131\source\repos\Inlämning3\obj\Debug\Inlämning3.Properties.Resources.resources
+C:\Users\55131\source\repos\Inlämning3\obj\Debug\Inlämning3.csproj.GenerateResource.cache
+C:\Users\55131\source\repos\Inlämning3\obj\Debug\Inlämning3.csproj.CoreCompileInputs.cache
+C:\Users\55131\source\repos\Inlämning3\obj\Debug\Inlämning3.exe
+C:\Users\55131\source\repos\Inlämning3\obj\Debug\Inlämning3.pdb
+C:\Users\55131\Desktop\Programmering\Inläming 3\Inlämning3\bin\Debug\Inlämning3.exe.config
+C:\Users\55131\Desktop\Programmering\Inläming 3\Inlämning3\bin\Debug\Inlämning3.exe
+C:\Users\55131\Desktop\Programmering\Inläming 3\Inlämning3\bin\Debug\Inlämning3.pdb
+C:\Users\55131\Desktop\Programmering\Inläming 3\Inlämning3\obj\Debug\Inlämning3.csprojAssemblyReference.cache
+C:\Users\55131\Desktop\Programmering\Inläming 3\Inlämning3\obj\Debug\Inlämning3.Form1.resources
+C:\Users\55131\Desktop\Programmering\Inläming 3\Inlämning3\obj\Debug\Inlämning3.Properties.Resources.resources
+C:\Users\55131\Desktop\Programmering\Inläming 3\Inlämning3\obj\Debug\Inlämning3.csproj.GenerateResource.cache
+C:\Users\55131\Desktop\Programmering\Inläming 3\Inlämning3\obj\Debug\Inlämning3.csproj.CoreCompileInputs.cache
+C:\Users\55131\Desktop\Programmering\Inläming 3\Inlämning3\obj\Debug\Inlämning3.exe
+C:\Users\55131\Desktop\Programmering\Inläming 3\Inlämning3\obj\Debug\Inlämning3.pdb
